@@ -1,0 +1,5 @@
+this the code for the project
+the project is about storing the data of a visitor on different purposes in to an appartment
+code
+name=input("enter the visitor name")
+purpose=input("enter the purpose")
